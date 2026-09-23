@@ -1,0 +1,23 @@
+
+# Xcode user data and build artifacts
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserdata
+*.xccheckout
+*.mover-current-file-info
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# OS X files
+.DS_Store
+
+# Executables and objects
+*.o
+*.out
+*.exe
+tester
