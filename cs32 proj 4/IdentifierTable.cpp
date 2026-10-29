@@ -6,9 +6,6 @@
 //
 // IdentifierTable.cpp
 
-// This is a correct but inefficient implementation of
-// the IdentifierTable functionality.
-
 #include "IdentifierTable.h"
 #include <string>
 #include <vector>
